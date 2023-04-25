@@ -1,0 +1,30 @@
+{
+    "name": "DiscordBrand",
+    "description": "A theme based on the branding screenshots on Discord's home page",
+    "authors": [
+        {
+            "name": "Lunah#3131",
+            "id": 603635602809946113
+        }
+    ],
+    "spec": 2,
+    "semanticColors": {
+        "BACKGROUND_PRIMARY": "#292841",
+        "CHAT_BACKGROUND": "#292841",
+        "BACKGROUND_MOBILE_PRIMARY": "#292841",
+        "BACKGROUND_SECONDARY": "#1C1B29",
+        "BACKGROUND_MOBILE_SECONDARY": "#1C1B29",
+        "BACKGROUND_SECONDARY_ALT": "#1A1926",
+        "BACKGROUND_TERTIARY": "#131228",
+        "BACKGROUND_FLOATING": "#0D0D1D",
+        "BACKGROUND_MODIFIER_SELECTED": "#807CEF",
+        "BACKGROUND_MODIFIER_ACTIVE": "#807CEF",
+        "BACKGROUND_MODIFIER_ACCENT": "#807CEF",
+        "BACKGROUND_MODIFIER_HOVER": "#1A1926",
+        "SPOLIER_HIDDEN_BACKGROUND": "#131228",
+    },
+    "rawColors": {
+        "PRIMARY_500": "#807CEF",
+        "PRIMARY_630": "#1C1B29"
+    }
+}
