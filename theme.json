@@ -4,10 +4,9 @@
     "authors": [
         {
             "name": "Lunah#3131",
-            "id": 603635602809946113
+            "id": "603635602809946113"
         }
     ],
-    "spec": 2,
     "semanticColors": {
         "BACKGROUND_PRIMARY": ["#292841"],
         "BACKGROUND_SECONDARY": ["#1C1B29"],
@@ -21,9 +20,13 @@
         "BACKGROUND_MODIFIER_ACCENT": ["#807CEF7F"],
         "BACKGROUND_MODIFIER_HOVER": ["#1A1926"],
 
+        "SCROLLBAR_THIN_THUMB": ["#14131C"],
+        "SCROLLBAR_THIN_TRACK": ["transparent"],
+        "SCROLLBAR_AUTO_THUMB": ["#14131C"],
+        "SCROLLBAR_AUTO_TRACK": ["#14131C"],
+        "CHANNELTEXTAREA_BACKGROUND": ["#14131C"],
         "CHAT_BACKGROUND": ["#292841"],
-        "SPOILER_HIDDEN_BACKGROUND": ["#131228"],
-        "CHANNELTEXTAREA_BACKGROUND": ["#131228"]
+        "SPOILER_HIDDEN_BACKGROUND": ["#14131C"]
     },
     "rawColors": {
         "PRIMARY_500": "#4E4A8C",
@@ -32,5 +35,6 @@
         "PRIMARY_660": "#292841",
         "PRIMARY_700": "#4E4A8C",
         "PRIMARY_800": "#292841"
-    }
+    },
+    "spec": 2
 }
