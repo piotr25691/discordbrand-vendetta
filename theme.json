@@ -22,10 +22,10 @@
         "BACKGROUND_MODIFIER_ACCENT": ["#807CEF"],
         "BACKGROUND_MODIFIER_HOVER": ["#1A1926"],
         "SPOILER_HIDDEN_BACKGROUND": ["#131228"],
-        "INTERACTIVE_NORMAL": ["#292841"]
     },
     "rawColors": {
         "PRIMARY_500": "#4E4A8C",
+        "PRIMARY_600": "#292841",
         "PRIMARY_630": "#1C1B29"
     }
 }
